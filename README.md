@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's me, Aman! 👋</h1>
+<h1 align="center">Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's me, Aman!</h1>
 
 [![](https://visitcount.itsvg.in/api?id=aman247av&icon=0&color=0)](https://visitcount.itsvg.in)
 
