@@ -1,9 +1,9 @@
-<h1 align="center">Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's me, Aman!</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, it's me, Aman!</h1>
 
 [![](https://visitcount.itsvg.in/api?id=aman247av&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-🔭 I'm currently working on Computer Vision, Machine Learning and Spring Boot<br>
+🔭 I'm currently developing Django applications, deploying AWS solutions in production, and contributing to Spring Boot projects.<br>
 👯 I'm looking to collaborate on Backend Development, MERN Stack and Deep Learning Projects (Computer Vision)<br>
 🧑‍🎓 I'm currently learning Spring Boot and Cloud Computing<br>
 📫 How to reach me: aman247av@gmail.com or message me on [whatsapp](https://wa.me/917317270278) <br>
