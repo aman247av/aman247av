@@ -5,7 +5,7 @@
 ## 💫 About Me:
 🔭 I'm currently developing Django applications, deploying AWS solutions in production, and contributing to Spring Boot projects.<br>
 👯 I'm looking to collaborate on Backend Development, MERN Stack and Deep Learning Projects (Computer Vision)<br>
-🧑‍🎓 I'm currently learning Spring Boot and Cloud Computing<br>
+🧑‍🎓 I'm currently learning Cloud Computing and Spring Boot<br>
 📫 How to reach me: aman247av@gmail.com or message me on [whatsapp](https://wa.me/917317270278) <br>
 📃 Here is my [RESUME](https://github.com/aman247av/aman247av/blob/main/Aman%20Verma's%20Resume.pdf).😉 
 
