@@ -7,7 +7,7 @@
 👯 I'm looking to collaborate on Backend Development, MERN Stack and Deep Learning Projects (Computer Vision)<br>
 🧑‍🎓 I'm currently learning Cloud Computing and Spring Boot<br>
 📫 How to reach me: aman247av@gmail.com or message me on [whatsapp](https://wa.me/917317270278) <br>
-📃 Here is my [RESUME](https://github.com/aman247av/aman247av/blob/main/Aman%20Verma's%20Resume.pdf).😉 
+📃 Here is my [RESUME]([https://github.com/aman247av/aman247av/blob/main/Aman%20Verma's%20Resume.pdf](https://github.com/aman247av/aman247av/blob/main/Aman%20Verma%20CV%20(1).pdf)).😉 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman247av) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24366987) 
