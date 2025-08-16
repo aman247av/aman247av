@@ -10,7 +10,7 @@
 - 👯 Open to collaborate on **Backend**, **Streaming Systems**, **MERN**, and **Computer Vision**.
 - 📚 Learning: **Cloud Computing** & **Spring Boot**.
 - 📫 Reach me: **aman247av@gmail.com** · [WhatsApp](https://wa.me/917317270278)  
-- 📃 **Resume:** [Google Drive](https://drive.google.com/file/d/15yFEBb_ma5ciwTex5zzVONX4UGCRQj1q/view)
+- 📃 **Resume:** [Link](https://github.com/aman247av/aman247av/blob/main/Aman_VERMA%20(2).pdf)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman247av)
